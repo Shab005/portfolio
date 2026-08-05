@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content=" یک صفحه درباری من هست برای تست درست کردم"
+    />
+    <title>Home</title>
+    <link rel="stylesheet" href="tst.css" />
+    <link rel="icon" href="./favicon.ico" />
+  </head>
+
+  <body class="home">
+    <header>
+      <div class="div">
+        <ul class="ul">
+          <li class="li"><a class="link" href="">Home</a></li>
+          <li class="li"><a class="link" href="">About</a></li>
+          <li class="li"><a class="link" href="">Portfolio</a></li>
+          <li class="li"><a class="link" href="">Resume</a></li>
+          <li class="li">
+            <a class="link" href="favicon_io/tstnew.html">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </header>
+    <h1 class="h1">Hello, welcome to my website.</h1>
+    <main>
+      <div>
+        <img
+          class="img"
+          src="./moody-anime-profile-picture-simple-vector.jpg"
+          alt="تست عکس انیمه"
+        />
+      </div>
+      <p class="p">Hi im alireza <br />how are you?<br />wat is you name</p>
+      <div>
+        <video
+          src="https://www.w3schools.com/html/mov_bbb.mp4"
+          controls="controls"
+        ></video>
+      </div>
+    </main>
+    <footer></footer>
+  </body>
+</html>
